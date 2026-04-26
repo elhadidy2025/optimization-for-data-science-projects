@@ -1,4 +1,3 @@
-# optimization-for-data-science-projects
 # Optimization for Data Science Projects
 
 This repository summarizes selected coursework projects from the Optimization for Data Science course.
@@ -24,6 +23,26 @@ Implemented and analyzed a small neural network training setup using gradient-ba
 
 ### Accelerated Gradient Methods
 Compared standard gradient descent with accelerated methods to study convergence speed and optimization efficiency.
+
+## Visual Summaries
+
+### Convergence Comparison
+
+![Convergence Comparison](figures/convergence_comparison.png)
+
+Comparison of gradient-based optimization methods, including Gradient Descent, Heavy Ball, and Nesterov methods.
+
+### Step Size Experiments
+
+![Step Size Experiments](figures/step_size_experiments.png)
+
+Visualization of how different step sizes affect convergence behavior during neural network training.
+
+### XOR Decision Boundary
+
+![XOR Decision Boundary](figures/xor_decision_boundary.png)
+
+Learned non-linear decision boundary showing how a small neural network can solve the XOR classification problem.
 
 ## Tools
 
